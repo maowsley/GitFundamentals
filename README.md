@@ -2,15 +2,15 @@
 ## Git Exercise
 Git is a version control system that allows us to track changes and commit them to history. Here is a growing collection of resources and helpful commans to know when working with git.
 ## Git Commands
-- [git config](./Commands/Config.md)
-- [git init](./Commands/Init.md)
-- [git add](./Commands/Add.md)
-- [git commit](./Commands/Commit.md)
-- [git remote](./Commands/Remote.md) 
-- [git push](./Commands/PUSH.md)
-- [git pull](./Commands/Pull.md)
-- [git status](./Commands/Status.md)
-- [git clone](./Commands/Clone.md)
+- [git config](./Commands/config.md)
+- [git init](./Commands/init.md)
+- [git add](./Commands/add.md)
+- [git commit](./Commands/commit.md)
+- [git remote](./Commands/remote.md) 
+- [git push](./Commands/push.md)
+- [git pull](./Commands/pull.md)
+- [git status](./Commands/status.md)
+- [git clone](./Commands/clone.md)
 
 ## External Resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
